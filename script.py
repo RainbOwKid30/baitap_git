@@ -1,2 +1,1 @@
-print('Hello from member 1')
-print('Hello from member 2')
+print('Hello from member 1 and member 2')
